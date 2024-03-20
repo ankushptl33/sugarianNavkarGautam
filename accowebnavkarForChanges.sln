@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "source", ".", "{CD18F4D5-F402-4DB8-A8D4-059CD3A8F61A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Frontpage = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/accowebnavkarForChanges"
+		Debug.AspNetCompiler.PhysicalPath = "..\accowebnavkarForChanges\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\accowebnavkarForChanges\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/accowebnavkarForChanges"
+		Release.AspNetCompiler.PhysicalPath = "..\accowebnavkarForChanges\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\accowebnavkarForChanges\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "28966"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD18F4D5-F402-4DB8-A8D4-059CD3A8F61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD18F4D5-F402-4DB8-A8D4-059CD3A8F61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
